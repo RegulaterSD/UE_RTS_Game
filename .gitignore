@@ -80,7 +80,7 @@ OrcLabor/Plugins/*/Intermediate/
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-~/DerivedDataCache/
+OrcLabor/DerivedDataCache/
 DerivedDataCache/*
 OrcLabor/Intermediate/
 OrcLabor/Saved/
