@@ -84,3 +84,9 @@ OrcLabor/DerivedDataCache/
 DerivedDataCache/*
 OrcLabor/Intermediate/
 OrcLabor/Saved/
+OrcLabor/Saved/*
+OrcLabor/Saved/Autosaves/
+OrcLabor/Saved/Collections/
+OrcLabor/Saved/Config/
+OrcLabor/Saved/Logs/
+OrcLabor/Saved/SourceControl/
