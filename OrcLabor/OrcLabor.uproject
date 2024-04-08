@@ -15,5 +15,10 @@
 			"Name": "PCG",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Mac",
+		"Windows"
 	]
 }
